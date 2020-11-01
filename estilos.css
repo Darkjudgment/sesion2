@@ -1,0 +1,45 @@
+.header-container-padre{
+    margin-top: 40px;
+  margin-left: 20px;
+  margin-right: 20px;  
+  margin-bottom: 40px; 
+}
+
+.main-container-padre{
+    
+  margin-top: 40px;
+  margin-left: 20px;
+  margin-right: 20px; 
+}
+
+.navbar {    
+    height: 45px;
+  font-family: sans-serif;
+  color: #025157;       
+  }
+  li{
+    display:inline-block;    
+    padding:25px 25px;
+        text-align:center;
+        color: #025157;
+        margin-bottom: 100px;
+  }
+
+  
+  #sign-in{
+    color: #67b54b;
+    font-size-adjust: 14px;
+    margin-left: 10px;
+    margin-right: 10px;    
+  }
+  button{
+    background-color: #67b54b;
+    color: white;
+    
+    padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border: 0;
+  border-radius: 5px;
+  }
